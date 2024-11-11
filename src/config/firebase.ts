@@ -5,13 +5,13 @@ import { getStorage } from 'firebase/storage';
 import { getAnalytics, Analytics } from 'firebase/analytics';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCt4rGsqMECDbEds6JLJk81kOtHhvyWEmU",
-  authDomain: "chipidatedb.firebaseapp.com",
-  projectId: "chipidatedb",
-  storageBucket: "chipidatedb.firebasestorage.app",
-  messagingSenderId: "219729092706",
-  appId: "1:219729092706:web:d89bb95c98e7326c57f13b",
-  measurementId: "G-MEASUREMENT_ID"
+  apiKey: "AIzaSyDemoKeyForStackBlitzEnvironment",
+  authDomain: "chipidate-demo.firebaseapp.com",
+  projectId: "chipidate-demo",
+  storageBucket: "chipidate-demo.appspot.com",
+  messagingSenderId: "123456789012",
+  appId: "1:123456789012:web:abcdef0123456789",
+  measurementId: "G-DEMO12345"
 };
 
 // Initialize Firebase
