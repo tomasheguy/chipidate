@@ -1,0 +1,109 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "How It Works",
+    "searchDeals": "Find a Table",
+    "featured": "Featured Deals",
+    "forRestaurants": "For Restaurants",
+    "signIn": "Sign In",
+    "register": "Register",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "email": "Email",
+    "password": "Password",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create account",
+    "error": {
+      "invalidCredentials": "Invalid email or password"
+    }
+  },
+  "hero": {
+    "title": "Find Your Perfect Table",
+    "subtitle": "Discover exclusive dining experiences with amazing savings"
+  },
+  "search": {
+    "cuisine": "Search by cuisine or restaurant",
+    "search": "Search",
+    "date": "Select date",
+    "guests": "Number of guests",
+    "guestOptions": {
+      "2": "2 People",
+      "4": "4 People",
+      "6": "6 People",
+      "8": "8+ People"
+    }
+  },
+  "howItWorks": {
+    "title": "How ChipiDate Works",
+    "steps": {
+      "find": {
+        "title": "Find Your Experience",
+        "description": "Browse exclusive menus from top restaurants"
+      },
+      "date": {
+        "title": "Choose Your Date",
+        "description": "Select your preferred date and party size"
+      },
+      "pay": {
+        "title": "Pay & Save",
+        "description": "Get great discounts by paying in advance"
+      },
+      "enjoy": {
+        "title": "Enjoy Your Meal",
+        "description": "Show up and enjoy your gourmet experience"
+      }
+    }
+  },
+  "featured": {
+    "title": "Today's Featured Deals",
+    "off": "% OFF",
+    "guests": "guests",
+    "bookNow": "Book Now"
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Restaurant Dashboard",
+      "stats": {
+        "reservations": "Today's Reservations",
+        "revenue": "Revenue This Month",
+        "guests": "Total Guests This Month",
+        "avgBooking": "Average Booking Value"
+      },
+      "quickActions": {
+        "title": "Quick Actions",
+        "availability": "Manage Availability",
+        "menus": "Update Menus",
+        "settings": "Restaurant Settings"
+      }
+    },
+    "availability": {
+      "title": "Table Availability",
+      "importTables": "Import Tables",
+      "addTable": "Add New Table",
+      "editTable": "Edit Table",
+      "tableDetails": {
+        "name": "Table Name/Number",
+        "namePlaceholder": "e.g., Table 1 or Window Table",
+        "location": "Location",
+        "minDiners": "Minimum Diners",
+        "maxDiners": "Maximum Diners",
+        "isPrivate": "Private Dining Table"
+      },
+      "locations": {
+        "main": "Main Dining Room",
+        "outdoor": "Outdoor Patio",
+        "private": "Private Room",
+        "bar": "Bar Area"
+      }
+    },
+    "menus": {
+      "title": "Menu Management"
+    },
+    "settings": {
+      "title": "Restaurant Settings"
+    }
+  }
+}

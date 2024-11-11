@@ -1,0 +1,70 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "Comment ça Marche",
+    "searchDeals": "Trouver une Table",
+    "featured": "En Vedette",
+    "forRestaurants": "Pour Restaurants",
+    "signIn": "Se Connecter",
+    "register": "S'inscrire",
+    "signOut": "Se Déconnecter"
+  },
+  "auth": {
+    "signIn": "Se Connecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "noAccount": "Pas encore de compte ?",
+    "createAccount": "Créer un compte",
+    "error": {
+      "invalidCredentials": "Email ou mot de passe invalide"
+    }
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Tableau de Bord",
+      "stats": {
+        "reservations": "Réservations du Jour",
+        "revenue": "Revenu du Mois",
+        "guests": "Total des Convives",
+        "avgBooking": "Valeur Moyenne des Réservations"
+      },
+      "quickActions": {
+        "title": "Actions Rapides",
+        "availability": "Gérer la Disponibilité",
+        "menus": "Mettre à Jour les Menus",
+        "settings": "Paramètres"
+      }
+    },
+    "availability": {
+      "title": "Disponibilité des Tables",
+      "importTables": "Importer des Tables",
+      "addTable": "Ajouter une Table",
+      "editTable": "Modifier la Table",
+      "tableDetails": {
+        "name": "Nom/Numéro de Table",
+        "namePlaceholder": "ex., Table 1 ou Table Fenêtre",
+        "location": "Emplacement",
+        "minDiners": "Minimum de Convives",
+        "maxDiners": "Maximum de Convives",
+        "isPrivate": "Table Privée"
+      },
+      "locations": {
+        "main": "Salle Principale",
+        "outdoor": "Terrasse",
+        "private": "Salle Privée",
+        "bar": "Espace Bar"
+      }
+    },
+    "menus": {
+      "title": "Gestion des Menus"
+    },
+    "settings": {
+      "title": "Paramètres"
+    }
+  },
+  "common": {
+    "cancel": "Annuler",
+    "update": "Mettre à jour",
+    "add": "Ajouter"
+  }
+}

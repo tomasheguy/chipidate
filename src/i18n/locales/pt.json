@@ -1,0 +1,70 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "Como Funciona",
+    "searchDeals": "Encontrar Mesa",
+    "featured": "Destaques",
+    "forRestaurants": "Para Restaurantes",
+    "signIn": "Entrar",
+    "register": "Registrar",
+    "signOut": "Sair"
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "email": "Email",
+    "password": "Senha",
+    "noAccount": "Não tem uma conta?",
+    "createAccount": "Criar conta",
+    "error": {
+      "invalidCredentials": "Email ou senha inválidos"
+    }
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Painel de Controle",
+      "stats": {
+        "reservations": "Reservas de Hoje",
+        "revenue": "Receita do Mês",
+        "guests": "Total de Convidados",
+        "avgBooking": "Valor Médio de Reserva"
+      },
+      "quickActions": {
+        "title": "Ações Rápidas",
+        "availability": "Gerenciar Disponibilidade",
+        "menus": "Atualizar Cardápios",
+        "settings": "Configurações"
+      }
+    },
+    "availability": {
+      "title": "Disponibilidade de Mesas",
+      "importTables": "Importar Mesas",
+      "addTable": "Adicionar Mesa",
+      "editTable": "Editar Mesa",
+      "tableDetails": {
+        "name": "Nome/Número da Mesa",
+        "namePlaceholder": "ex., Mesa 1 ou Mesa Janela",
+        "location": "Localização",
+        "minDiners": "Mínimo de Pessoas",
+        "maxDiners": "Máximo de Pessoas",
+        "isPrivate": "Mesa Privativa"
+      },
+      "locations": {
+        "main": "Salão Principal",
+        "outdoor": "Área Externa",
+        "private": "Sala Privativa",
+        "bar": "Área do Bar"
+      }
+    },
+    "menus": {
+      "title": "Gestão de Cardápios"
+    },
+    "settings": {
+      "title": "Configurações"
+    }
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "update": "Atualizar",
+    "add": "Adicionar"
+  }
+}
